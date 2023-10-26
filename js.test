@@ -1,4 +1,4 @@
 var test = "testing_";
+var regField = new RegExp('/\w+/' + test);
 if (test == true) { alert("x"); }
-'AWS_secret_KEY'="12ASD34qwe56CXZ78tyH10Tna543VBokN85RHCas"
 AWS_ACCESS_KEY_ID=AKIA0123456789ABCDEF
